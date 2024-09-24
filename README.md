@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![App Screenshot](https://github.com/MariamTourky/ProductsShoppingTask/blob/main/screenshot.png?raw=true)
 
 This project is a starting point for a Flutter application.
 
